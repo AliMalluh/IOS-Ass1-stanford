@@ -2,7 +2,7 @@
 //  Ass1_StanfordApp.swift
 //  Ass1-Stanford
 //
-//  Created by Ali-Logestechs on 25/12/2023.
+//  Created by Ali-Malluh on 25/12/2023.
 //
 
 import SwiftUI
